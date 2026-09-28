@@ -1,4 +1,4 @@
-# Mini Hackathon AI — Batch 04 · Lớp 3A
+# Graph4life — Batch 04 · Lớp 3A
 
 **SPEC → Prototype → Demo.** Đây không phải cuộc thi code — đây là cuộc thi **tư duy sản phẩm AI**.
 
